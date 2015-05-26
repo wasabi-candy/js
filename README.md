@@ -1,0 +1,1 @@
+vipで練習javascript
